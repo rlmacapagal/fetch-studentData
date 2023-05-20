@@ -40,15 +40,22 @@ After installing the dependencies, you can run the application locally using:
 
 ```bash
 npm start
+```
 
 After running this command, the application should start, and it will be accessible in your web browser at http://localhost:3000.
 
 ## Contributing
+
 If you wish to contribute to this project, please fork the repository, make your changes and create a pull request. All contributions are welcome!
 
 ## License
+
 This project is licensed under the MIT License.
 
 ## Questions
+
 If you have any questions or run into any issues, please open an issue in this repository.
+
+```
+
 ```
